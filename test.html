@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: aqua;
+            position: absolute;
+            left: 0;
+            transition: left 1s;
+        }
+    </style>
+</head>
+<body>
+    
+    <button>开始</button>
+    <div></div>
+
+    <script>
+        let btn = document.querySelector('button');
+        btn.onclick = function(){
+            let div = document.querySelector('div');
+            div.style.left = '600px';
+        }
+        btn.ontransitionend
+    </script>
+</body>
+</html>

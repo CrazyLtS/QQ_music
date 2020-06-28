@@ -1,0 +1,113 @@
+[
+    {
+        "name":"ヤキモチ",
+        "songer":"高橋優",
+        "time":"05:15",
+        "img":"image/高橋優_ヤキモチ.jpg",
+        "link_url":"../source/music/高橋優 - ヤキモチ (吃醋).mp3"
+    },
+    {
+        "name":"白熱!ゾロ",
+        "songer":"浜口史郎",
+        "time":"01:48",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/浜口史郎 - 白熱!ゾロ.mp3"
+    },
+    {
+        "name":"ルフィ猛攻!",
+        "songer":"浜口史郎",
+        "time":"01:07",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/浜口史郎 - ルフィ猛攻!.mp3"
+    },
+    {
+        "name":"千本桜 (千本樱)",
+        "songer":"初音ミク、黒うさP、镜音リン・レン、巡音ルカ、Kaito、Haigo Meiko",
+        "time":"04:04",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/初音ミク、黒うさP、镜音リン・レン、巡音ルカ、Kaito、Haigo Meiko - 千本桜 (千本樱).mp3"
+    },
+    {
+        "name":"Butter-Fly",
+        "songer":"和田光司",
+        "time":"04:17",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/和田光司 - Butter-Fly (蝴蝶).mp3"
+    },
+    {
+        "name":"活着 (Live)",
+        "songer":"摩登兄弟",
+        "time":"04:14",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/摩登兄弟 - 活着 (Live).mp3"
+    },
+    {
+        "name":"リブート (Reboot)",
+        "songer":"miwa",
+        "time":"04:03",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/miwa - リブート (Reboot).mp3"
+    },
+    {
+        "name":"only my railgun",
+        "songer":"Dev·鸢、TAMUSIC",
+        "time":"04:46",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/Dev·鸢、TAMUSIC - only my railgun.mp3"
+    },{
+        "name":"ヤキモチ",
+        "songer":"高橋優",
+        "time":"05:15",
+        "img":"image/高橋優_ヤキモチ.jpg",
+        "link_url":"../source/music/高橋優 - ヤキモチ (吃醋).mp3"
+    },
+    {
+        "name":"白熱!ゾロ",
+        "songer":"浜口史郎",
+        "time":"01:48",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/浜口史郎 - 白熱!ゾロ.mp3"
+    },
+    {
+        "name":"ルフィ猛攻!",
+        "songer":"浜口史郎",
+        "time":"01:07",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/浜口史郎 - ルフィ猛攻!.mp3"
+    },
+    {
+        "name":"千本桜 (千本樱)",
+        "songer":"初音ミク、黒うさP、镜音リン・レン、巡音ルカ、Kaito、Haigo Meiko",
+        "time":"04:04",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/初音ミク、黒うさP、镜音リン・レン、巡音ルカ、Kaito、Haigo Meiko - 千本桜 (千本樱).mp3"
+    },
+    {
+        "name":"Butter-Fly",
+        "songer":"和田光司",
+        "time":"04:17",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/和田光司 - Butter-Fly (蝴蝶).mp3"
+    },
+    {
+        "name":"活着 (Live)",
+        "songer":"摩登兄弟",
+        "time":"04:14",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/摩登兄弟 - 活着 (Live).mp3"
+    },
+    {
+        "name":"リブート (Reboot)",
+        "songer":"miwa",
+        "time":"04:03",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/miwa - リブート (Reboot).mp3"
+    },
+    {
+        "name":"only my railgun",
+        "songer":"Dev·鸢、TAMUSIC",
+        "time":"04:46",
+        "img":"image/LiSA_红莲华.jpg",
+        "link_url":"../source/music/Dev·鸢、TAMUSIC - only my railgun.mp3"
+    }
+]

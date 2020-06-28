@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QQ音乐</title>
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" />
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <div class="musicWrap">
+        <!-- 头部 -->
+        <div class="player_header">
+            <!-- logo -->
+            <a class="player_logo" href="#"><img src="image/player_logo.png"></a>
+            <div class="player_log-set"><span class="player_login">登录</span><span class="player_set">设置</span></div>
+        </div>
+        <!-- 主要内容 -->
+        <div class="player_content">
+            <div class="content_by">
+                <div class="content_by_left">
+                    <!-- 音乐工具组 -->
+                    <div class="by_play_tools">
+                        <a href="javascript:;" class="tools_btn_like"><i></i><span>收藏</span></a>
+                        <a href="javascript:;" class="tools_btn_add"><i></i><span>添加到</span></a>
+                        <a href="javascript:;" class="tools_btn_down"><i></i><span>下载</span></a>
+                        <a href="javascript:;" class="tools_btn_del"><i></i><span>删除</span></a>
+                        <a href="javascript:;" class="tools_btn_clear"><i></i><span>清空列表</span></a>
+                    </div>
+                    <!-- 音乐列表头部 -->
+                    <div class="music_list_header"><span class="music_check"></span><span class="music_number"></span>
+                        <div class="music_mind">
+                            <div class="music_menu_list"><span class="music_name">歌曲</span></div><span class="music_songer">歌手</span>
+                            <div class="music_time">时长</div>
+                        </div>
+                    </div>
+                    <!-- 歌曲列表 -->
+                    <div class="by_music_ifon mCustomScrollbar" data-mcs-theme="rounded-dots">
+                        <ul class="music_nav">
+                            <!-- 音乐列表 -->
+                        </ul>
+                    </div>
+                    <!-- 歌曲列表结束 -->
+                </div>
+                <!-- 歌词和唱片资料 -->
+                <div class="content_by_right">
+                    <!-- 唱片资料 -->
+                    <div class="music_song_ifon">
+                        <a class="song_ifon_img" href="javascript:;">
+                            <img class="ifon_img" src="image/T002R300x300M000000f4PYZ3mxAHw.jpg">
+                        </a>
+                        <p>歌曲名：<a class="song_name" href="javascript:;">出现又离开</a></p>
+                        <p>歌手名：<a class="songer_name" href="javascript:;">梁博</a></p>
+                    </div>
+                    <!-- 歌词信息 -->
+                    <div class="music_ifon_bte">
+                        <p data-id="line_null">&nbsp;</p>
+                        <p data-id="line_0">旧南阁子</p>
+                        <p data-id="line_1">作词 : 苏结衣</p>
+                        <p data-id="line_2">作曲 : 石进《夜的钢琴曲4》</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 底部播放组件 -->
+            <div class="content_ft">
+                <!-- 播放，上一首，下一首 -->
+                <a class="player_prev btn_bg_opty highlight" href="javascript:;"></a>
+                <a class="player_play btn_bg_opty highlight" href="javascript:;"></a>
+                <a class="player_next btn_bg_opty highlight" href="javascript:;"></a>
+                <!-- 播放进度条 -->
+                <div class="music_player_progress">
+                    <!-- 进度条播放信息 -->
+                    <div class="player_progress_ifon">
+                        <p class="player_music_ifon"><a class="music_name" href="javascript:;">Music</a> - <a
+                                class="music_songer" href="javascript:;">SendBer</a></p>
+                        <p class="player_music_time">00:00 / 00:00</p>
+                    </div>
+                    <!-- 进度条 -->
+                    <div class="player_progress">
+                        <div class="progress_bar"></div>
+                        <i class="progress_dots"></i>
+                    </div>
+                </div>
+                <!-- 播放工具组 -->
+                <div class="ft_player_tools">
+                    <a class="player_icon_style btn_bg_opty highlight player_style_loop" href="javascript:;"></a>
+                    <a class="player_icon_like btn_bg_opty highlight" href="javascript:;"></a>
+                    <a class="player_icon_down btn_bg_opty highlight" href="javascript:;"></a>
+                    <a class="player_icon_comment btn_bg_opty highlight" href="javascript:;"></a>
+                    <a class="player_icon_only btn_bg_opty highlight" href="javascript:;"></a>
+                    <!-- 声音控件 -->
+                    <div class="player_voice_progress">
+                        <a class="player_icon_voice btn_bg_opty highlight" href="javascript:;"></a>
+                        <div class="player_progress">
+                            <div class="progress_bar"></div>
+                            <i class="progress_dots"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 音乐播放标签 -->
+            <audio src=""></audio>
+            <!-- 底部结束 -->>
+        </div>
+    </div>
+    <!-- 背景色 -->
+    <div class="bg_div"></div>
+    <div class="bg_img_div"></div>
+    <!-- 页面结束 -->
+</body>
+<script src='js/jquery-3.4.1.js'></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/Player.js"></script>
+<script src="js/bar.js"></script>
+<!-- <script src="js/lyrics.js"></script> -->
+<script src="js/index.js"></script>
+</html>
