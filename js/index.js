@@ -100,7 +100,7 @@
         // 3.1.使用ajax获取数据
         // 3.2.创建ajax
         $.ajax({
-            url: '../source/musicList.json',
+            url: './source/musicList.json',
             dataType: 'json',
             success: function (data) {
                 // 3.3.处理服务器返回的数据
